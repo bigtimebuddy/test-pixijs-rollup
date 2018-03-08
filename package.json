@@ -1,0 +1,20 @@
+{
+  "name": "pixi-rollup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "rollup -c"
+  },
+  "keywords": [],
+  "author": "Matt Karl <matt@mattkarl.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "pixi.js": "^4.7.0",
+    "rollup": "^0.56.5",
+    "rollup-plugin-commonjs": "^9.0.0",
+    "rollup-plugin-node-builtins": "^2.1.2",
+    "rollup-plugin-node-globals": "^1.1.0",
+    "rollup-plugin-node-resolve": "^3.2.0"
+  }
+}
